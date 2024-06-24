@@ -60,8 +60,11 @@ Perform respiration monitoring on static targets. Support simultaneous observati
 Welcome to our research on mmWave radar, and feel free to contact us.
 
 [1]   (Multi-person tracking and identification)
+
 [2]   (Behavior privacy protection)
+
 [3]   (Sleep posture recognition)
+
 [4]   (Vibration monitoring)
 
 
