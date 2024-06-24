@@ -11,7 +11,7 @@ mmWaveMatlab is a Matlab codebase for millimeter wave radar signal processing an
 ---
 
 ## Basic Signal Processing
-This category provides basic range, velocity, and angle measurements.
+Provide basic range, velocity, and angle measurements.
 
 ### Range Measurement
 Perform Range FFT to obtain range spectrums.
@@ -27,7 +27,7 @@ Configure the antenna array and perform angle estimation algorithms (FFT or digi
 ---
 
 ## Point Cloud Processing
-This category provides point cloud-related functions.
+Provides point cloud-related functions.
 
 ### Range/RD/RA Point Cloud Generation 
 Perform 1D/2D CFAR in range spectrum, RD Map, and RA map to generate point clouds.
@@ -44,7 +44,7 @@ Generate 4D point clouds through approaches of 4D FFT (RD point cloud -> 2D Angl
 ---
 
 ## Sensing
-This category provides a variety of human sensing functions.
+Provide various human sensing functions.
 
 ### Multi-person Tracking
 A multi-person tracking solution with full process optimization involving detection enhancement, interference suppression, continuity maintenance, and trajectory correction. It can be used in conjunction with IMUs to identify users.
