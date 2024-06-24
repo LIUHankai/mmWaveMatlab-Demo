@@ -5,15 +5,14 @@ Introduction and demos of the mmWaveMatlab project.
 #### Organization: Tianjin University
 #### Email: hkliu@tju.edu.cn
 ---
-### Introduction
+## Introduction
 mmWaveMatlab is a Matlab codebase for millimeter wave radar signal processing and human sensing. This document will introduce some of the main features of mmWaveMatlab and show the corresponding results.
 
 ---
 
-### Basic Signal Processing
+## Basic Signal Processing
 This category provides basic range, velocity, and angle measurements.
 
-****
 
 #### Range Measurement
 Perform Range FFT and obtain range point clouds through 1D CFAR.
