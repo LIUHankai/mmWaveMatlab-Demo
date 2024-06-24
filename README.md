@@ -47,10 +47,22 @@ Generate 4D point clouds through approaches of 4D FFT (RD point cloud -> 2D Angl
 Provide various human sensing functions.
 
 ### Multi-person Tracking
-A multi-person tracking solution with full process optimization involving detection enhancement, interference suppression, continuity maintenance, and trajectory correction. It can be used in conjunction with IMUs to identify users.
+A multi-person tracking solution with full process optimization involving detection enhancement, interference suppression, continuity maintenance, and trajectory correction. It can be used in conjunction with IMUs to identify users [1].
 
 
 ### Respiration Monitoring
 Perform respiration monitoring on static targets. Support simultaneous observation of multiple targets through range/RA extraction.
+
+
+---
+
+## Our Research
+Welcome to our research on mmWave radar, and feel free to contact us.
+
+[1]   (Multi-person tracking and identification)
+[2]   (Behavior privacy protection)
+[3]   (Sleep posture recognition)
+[4]   (Vibration monitoring)
+
 
 
