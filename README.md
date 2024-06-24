@@ -27,7 +27,7 @@ Configure the antenna array and perform angle estimation algorithms (FFT or digi
 ---
 
 ## Point Cloud Processing
-Provides point cloud-related functions.
+Provide point cloud-related functions.
 
 ### Range/RD/RA Point Cloud Generation 
 Perform 1D/2D CFAR in range spectrum, RD Map, and RA map to generate point clouds.
@@ -59,13 +59,10 @@ Perform respiration monitoring on static targets. Support simultaneous observati
 ## Our Research
 Welcome to our research on mmWave radar, and feel free to contact us.
 
-[1]   (Multi-person tracking and identification)
+[1] "PmTrack: Enabling personalized mmWave-based human tracking," ACM IMWUT, 2023. (Multi-person tracking and identification)
 
-[2]   (Behavior privacy protection)
+[2] "Application-oriented privacy filter for mmWave radar," IEEE Communications Magazine, 2023. (Behavior privacy protection)
 
-[3]   (Sleep posture recognition)
+[3] "PosMonitor: Fine-grained sleep posture recognition with mmWave radar," IEEE Internet of Things Journal, 2024. (Sleep posture recognition)
 
-[4]   (Vibration monitoring)
-
-
-
+[4] "VibCamera: mmWave and camera fusion for multi-point vibration monitoring", IEEE ICPADS, 2023. (Vibration measurement)
