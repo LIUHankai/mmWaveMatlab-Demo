@@ -24,8 +24,10 @@ Perform Range FFT to obtain range spectrums.
 ### Angle Measurement
 Configure the antenna array and perform angle estimation algorithms (FFT or digital beamforming) to obtain RA maps. Digital beamforming supports CBF and Capon algorithms and provides signal reconstruction.
 
+---
+
 ## Point Cloud Processing
-This category offers a variety of point cloud generation and clustering functions.
+This category provides point cloud-related functions.
 
 ### Range/RD/RA Point Cloud Generation 
 Perform 1D/2D CFAR in range spectrum, RD Map, and RA map to generate point clouds.
@@ -37,5 +39,18 @@ Generate 4D point clouds through approaches of 4D FFT (RD point cloud -> 2D Angl
 1. Cluster 2D/3D point clouds of different types through DBSCAN.
 
 2. Distinguish nearby targets through GMM clustering.
+
+
+---
+
+## Sensing
+This category provides a variety of human sensing functions.
+
+### Multi-person Tracking
+A multi-person tracking solution with full process optimization involving detection enhancement, interference suppression, continuity maintenance, and trajectory correction. It can be used in conjunction with IMUs to identify users.
+
+
+### Respiration Monitoring
+Perform respiration monitoring on static targets. Support simultaneous observation of multiple targets through range/RA extraction.
 
 
