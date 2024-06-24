@@ -14,15 +14,15 @@ mmWaveMatlab is a Matlab codebase for millimeter wave radar signal processing an
 This category provides basic range, velocity, and angle measurements.
 
 
-#### Range Measurement
+### Range Measurement
 Perform Range FFT and obtain range point clouds through 1D CFAR.
 
 
-#### Velocity Measurement
+### Velocity Measurement
 Perform Doppler FFT and obtain RD point clouds through 2D CFAR.
 
 
-#### Angle Measurement
+### Angle Measurement
 Configure the antenna array and perform angle estimation algorithms (FFT or digital beamforming) to obtain range-angle maps and range-angle point clouds. Digital beamforming supports CBF and Capon algorithms and provides signal reconstruction.
 
 
