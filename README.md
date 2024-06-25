@@ -42,7 +42,7 @@ Perform Range FFT to obtain range spectrums.
 Provide point cloud-related functions.
 
 ### Range/RD/RA Point Cloud Generation 
-Perform 1D/2D CFAR in range spectrum, RD Map, and RA map to generate point clouds.
+Perform 1D/2D CFAR on range spectrum, RD Map, and RA map to generate point clouds.
 
 <img src = "figures/rangePC.png" width = "225"> <img src = "figures/RDPC.png" width = "225">$~~$<img src = "figures/RAPC.png" width = "345">
 
