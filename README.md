@@ -44,7 +44,7 @@ Provide point cloud-related functions.
 ### Range/RD/RA Point Cloud Generation 
 Perform 1D/2D CFAR in range spectrum, RD Map, and RA map to generate point clouds.
 
-<img src = "figures/rangePC.png" width = "220"><img src = "figures/RDPC.png" width = "220">$~~~~$<img src = "figures/RAPC.png" width = "340">
+<img src = "figures/rangePC.png" width = "225"><img src = "figures/RDPC.png" width = "225">$~~~~$<img src = "figures/RAPC.png" width = "345">
 
 ### 4D Point Cloud Generation 
 Generate 4D point clouds through approaches of 4D FFT (RD point cloud -> 2D Angle FFT) or 2-Pass DBF (RA point cloud -> elevation estimation & signal reconstruction -> Doppler FFT).
@@ -54,11 +54,11 @@ Generate 4D point clouds through approaches of 4D FFT (RD point cloud -> 2D Angl
 ### Point Cloud Clustering 
 1. Cluster 2D/3D point clouds of different types through DBSCAN.
 
-<img src = "figures/cluster_XY.png" width = "265">  <img src = "figures/cluster_XYZ.png" width = "265"> <img src = "figures/cluster_XYV.png" width = "265">
+<img src = "figures/cluster_XY.png" width = "275">  <img src = "figures/cluster_XYZ.png" width = "275"> <img src = "figures/cluster_XYV.png" width = "275">
 
 3. Distinguish nearby targets through GMM clustering.
 
-<img src = "figures/GMM.png" width = "265">
+<img src = "figures/GMM.png" width = "275">
 
 ---
 
@@ -68,13 +68,13 @@ Provide various human sensing functions.
 ### Multi-person Tracking
 A multi-person tracking solution with full process optimization involving detection enhancement, interference suppression, continuity maintenance, and trajectory correction. It can be used in conjunction with IMUs to identify users [1].
 
-<img src = "figures/trackingVideoGif1.gif" width = "500">$~~~~$<img src = "figures/trackingGif1.gif" width = "300">
+<img src = "figures/trackingVideoGif1.gif" width = "400">$~~~~$<img src = "figures/trackingGif1.gif" width = "240">
 
-<img src = "figures/trackingVideoGif2.gif" width = "500">$~~~~$<img src = "figures/trackingGif2.gif" width = "300">
+<img src = "figures/trackingVideoGif2.gif" width = "400">$~~~~$<img src = "figures/trackingGif2.gif" width = "240">
 
-<img src = "figures/tracking1.png" width = "820">
+<img src = "figures/tracking1.png" width = "660">
 
-<img src = "figures/tracking2.png" width = "820">
+<img src = "figures/tracking2.png" width = "660">
 
 
 ### Respiration Monitoring
