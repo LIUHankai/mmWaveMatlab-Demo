@@ -30,7 +30,7 @@ Perform Range FFT to obtain range spectrums.
 ### Angle Measurement
 1. Configure the antenna array and perform angle estimation algorithms (FFT or digital beamforming) to obtain RA maps. Digital beamforming supports CBF and Capon algorithms and provides signal reconstruction.
 
-<img src = "figures/RAM_AngleFFT.png" width = "300"><img src = "figures/RAM_CBF.png" width = "300"><img src = "figures/RAM_Capon.png" width = "300">
+<img src = "figures/RAM_AngleFFT.png" width = "265"><img src = "figures/RAM_CBF.png" width = "265"><img src = "figures/RAM_Capon.png" width = "265">
 
 2. Perform 2D angle estimation and accumulate signal strength for human imaging.
 
