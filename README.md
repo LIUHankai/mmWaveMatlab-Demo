@@ -44,21 +44,21 @@ Provide point cloud-related functions.
 ### Range/RD/RA Point Cloud Generation 
 Perform 1D/2D CFAR in range spectrum, RD Map, and RA map to generate point clouds.
 
-<img src = "figures/rangePC.png" width = "280"><img src = "figures/RDPC.png" width = "280">$~~~~$<img src = "figures/RAPC.png" width = "425">
+<img src = "figures/rangePC.png" width = "220"><img src = "figures/RDPC.png" width = "220">$~~~~$<img src = "figures/RAPC.png" width = "340">
 
 ### 4D Point Cloud Generation 
 Generate 4D point clouds through approaches of 4D FFT (RD point cloud -> 2D Angle FFT) or 2-Pass DBF (RA point cloud -> elevation estimation & signal reconstruction -> Doppler FFT).
 
-<img src = "figures/3DPC_4DFFT.png" width = "400"><img src = "figures/3DPC_DBF.png" width = "400">
+<img src = "figures/3DPC_4DFFT.png" width = "300"><img src = "figures/3DPC_DBF.png" width = "300">
 
 ### Point Cloud Clustering 
 1. Cluster 2D/3D point clouds of different types through DBSCAN.
 
-<img src = "figures/cluster_XY.png" width = "330">  <img src = "figures/cluster_XYZ.png" width = "330"> <img src = "figures/cluster_XYV.png" width = "330">
+<img src = "figures/cluster_XY.png" width = "265">  <img src = "figures/cluster_XYZ.png" width = "265"> <img src = "figures/cluster_XYV.png" width = "265">
 
 3. Distinguish nearby targets through GMM clustering.
 
-<img src = "figures/GMM.png" width = "330">
+<img src = "figures/GMM.png" width = "265">
 
 ---
 
