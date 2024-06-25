@@ -15,6 +15,7 @@ Provide basic range, velocity, and angle measurements.
 
 ### Range Measurement
 Perform Range FFT to obtain range spectrums.
+![image](figures/rangeFFT.png)
 
 ### Velocity Measurement
 1. Perform Doppler FFT to obtain RD maps.
